@@ -12,3 +12,6 @@ This is a simple C++ console application created for Git Lab 1.
 - Colbi
 
 ## Changes Made by Benjamin: Added a feature greeting.
+
+## Team Members
+- Benjamin - Feature: student info display.

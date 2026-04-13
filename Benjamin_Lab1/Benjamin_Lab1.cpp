@@ -21,8 +21,9 @@ int main()
     cout << "Feature by Benjamin: Branching is awesome!" << endl;
 
     myFavoriteNumber();
-
-    return 0;
+    cout << "Student ID: S0003 | Name: Benjamin" << endl;
+  
+  return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
