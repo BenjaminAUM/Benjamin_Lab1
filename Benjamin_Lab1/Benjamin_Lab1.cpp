@@ -15,6 +15,7 @@ int main()
     cout << "=================================================" << endl;
     cout << "Feature by Benjamin: Branching is awesome!" << endl;
     cout << "Student ID: S0003 | Name: Benjamin" << endl;
+    cout << "TYPO LINE!!" << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
