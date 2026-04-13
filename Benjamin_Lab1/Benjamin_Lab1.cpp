@@ -1,9 +1,14 @@
 // Edited directly from GitHub
 // Benjamin_Lab1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
 #include <iostream>
 using namespace std;
+
+//My Favorite number function - added by Benjamin
+void myFavoriteNumber()
+{
+    int fav = 7;
+    cout << "My favorite number is: " << fav << endl;
+}
 
 int main()
 {
@@ -14,7 +19,11 @@ int main()
     cout << "Lab 1 completed on 4-6-26!" << endl;
     cout << "=================================================" << endl;
     cout << "Feature by Benjamin: Branching is awesome!" << endl;
+
+    myFavoriteNumber();
     cout << "Student ID: S0003 | Name: Benjamin" << endl;
+  
+  return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
